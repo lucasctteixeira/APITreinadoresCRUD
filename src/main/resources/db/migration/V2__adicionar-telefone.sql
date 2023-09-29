@@ -1,0 +1,1 @@
+alter table treinadores add telefone varchar(20) not null;
